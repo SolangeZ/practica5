@@ -1,1 +1,2 @@
 push del verbo pushir
+"subir a la nube"
